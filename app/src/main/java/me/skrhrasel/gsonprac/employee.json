@@ -1,0 +1,19 @@
+{
+  "address": {
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  },
+  "age": 26,
+  "family": [
+    {
+      "age": "22",
+      "role": "Wife"
+    },
+    {
+      "age": "4",
+      "role": "Daughter"
+    }
+  ],
+  "first_name": "Rasel",
+  "mail": "rasel@gmail.com"
+}
